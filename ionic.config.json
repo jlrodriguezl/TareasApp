@@ -1,5 +1,7 @@
 {
   "name": "TareasApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
